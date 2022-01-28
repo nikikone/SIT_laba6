@@ -1,4 +1,4 @@
 cd ..
-git pull origin master
+git pull origin
 pip install -r requirements.txt
 cd Scripts
